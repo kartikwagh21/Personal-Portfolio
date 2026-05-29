@@ -1,72 +1,35 @@
+# Personal Portfolio
 
-Personal Portfolio Website
+A simple personal portfolio website built with React and Vite.
 
-A modern and responsive personal portfolio website built using React and Vite to showcase my skills, projects, and contact information.
+This project shows a clean and easy way to share information about me, including:
 
-🚀 Features
-Clean and responsive UI
-Hero / Welcome section
-About Me section
-Skills showcase
-Projects portfolio
-Contact section
-Fast performance with Vite
-🛠️ Tech Stack
-React
-Vite
-HTML5
-CSS3
-JavaScript
-📂 Project Structure
-src/
- ├── components/
- ├── assets/
- ├── App.jsx
- ├── main.jsx
- └── styles/
-⚙️ Installation & Setup
+- A welcome section
+- About section
+- Skills section
+- Projects section
+- Contact section
 
-Clone the repository and run it locally.
+## Built with
 
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+- React
+- Vite
+- HTML
+- CSS
 
-# Navigate into the project folder
-cd your-repo-name
+## Run locally
 
-# Install dependencies
-npm install
+1. Open a terminal in this folder.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the app:
+   ```bash
+   npm run dev
+   ```
+4. Open the local address shown in your browser.
 
-# Start development server
-npm run dev
+## Notes
 
-Open the local server link shown in the terminal in your browser.
-
-📸 Sections Included
-Home
-About
-Skills
-Projects
-Contact
-📱 Responsive Design
-
-The portfolio is fully responsive and works across:
-
-Desktop
-Tablet
-Mobile Devices
-📌 Purpose
-
-This portfolio website is created to showcase my:
-
-Skills
-Projects
-Experience
-Contact Information
-🧑‍💻 Author
-
-Kartik Wagh
-
-📄 License
-
-This project is open-source and free to use.
+This is a simple portfolio template for showing personal details and project work.
