@@ -87,5 +87,3 @@ npm run preview
 This repository is a lightweight portfolio template built to help you showcase your profile, skills, and work in a clean interface. You can extend it with animation, a blog, or additional project sections as needed.
 
 ---
-
-If you want, I can also help add a `README` example with your actual name, role, and project descriptions.
